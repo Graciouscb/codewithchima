@@ -11,7 +11,9 @@ My README FILE
 - HTML
 - CSS
 - JavaScript
-
+-React
+-Taiwind css
+-Boostrap
 ---
 
 ## 📌 What I Do
@@ -22,7 +24,8 @@ My README FILE
 ---
 
 ## 📂 Projects
-Check out my repositories below 👇
+Check out my repositories 
+
 
 ---
 
