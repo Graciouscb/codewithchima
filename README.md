@@ -2,7 +2,7 @@
 My README FILE
 # Hi, I'm Codewithchima 👋
 
-💻 Web Developer | Tech Educator  
+💻 Web Developer | Tech Educator| Software engineer  
 🚀 I help beginners learn coding and build real-world projects  
 
 ---
